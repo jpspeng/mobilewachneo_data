@@ -53,7 +53,7 @@ Here is a basic description of the dataset:
 | `nds_score_bl`     | Danger sign knowledge score at baseline |
 | `nds_score_change` | Change in knowledge score from baseline |
 
-#### 💬 Messaging Engagement
+#### Messaging Engagement
 
 | Variable                        | Description                                    |
 | ------------------------------- | ---------------------------------------------- |
