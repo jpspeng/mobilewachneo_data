@@ -110,6 +110,3 @@ Here is a basic description of the dataset:
 | `wk2_track`        | Track assigned at week 2                      |
 | `wk6_track`        | Track assigned at week 6                      |
 
----
-
-Let me know if you'd like a downloadable `.md` file version or a rendered preview.
