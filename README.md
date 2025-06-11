@@ -91,8 +91,6 @@ Here is a basic description of the dataset:
 
 | Variable      | Description                          |
 | ------------- | ------------------------------------ |
-| `ega_del_gs`  | Gestational age at delivery (weeks)  |
-| `birthweight` | Birthweight (grams)                  |
 | `preterm_gs`  | Preterm (<37 weeks GA)               |
 | `dr_deltype`  | Delivery type (vaginal or C-section) |
 
