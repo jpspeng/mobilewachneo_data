@@ -35,8 +35,8 @@ Here is a basic description of the dataset:
 | `dp_ind_bl`           | Depression indicator at baseline             |
 | `dp_score`            | Depression score at endpoint                 |
 | `dp_score_bl`         | Depression score at baseline                 |
-| `ss_meanscore`        | Raw social support score (endpoint)          |
-| `ss_meanscore_bl`     | Raw social support score (baseline)          |
+| `ss_meanscore`        | Raw social support score at endpoint         |
+| `ss_meanscore_bl`     | Raw social support score at baseline         |
 | `ss_meanscore_change` | Change in social support score from baseline |
 | `se_sumscore`         | Self-efficacy score at endpoint              |
 | `se_sumscore_bl`      | Self-efficacy score at baseline              |
