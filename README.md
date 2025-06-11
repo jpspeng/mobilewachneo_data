@@ -22,7 +22,6 @@ Here is a basic description of the dataset:
 | `en_employ`    | Currently employed (yes/no)                   |
 | `en_marital`   | Married or living with partner (yes/no)       |
 | `en_crowd`     | Household crowding (≥3 per room)              |
-| `language`     | Preferred language (English, Swahili, or Luo) |
 | `sc_read`      | Can read SMS independently (yes/no)           |
 | `sc_write`     | Can write SMS independently (yes/no)          |
 | `oh_primigrav` | First pregnancy (yes/no)                      |
