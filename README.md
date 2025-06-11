@@ -1,6 +1,6 @@
 # Deidentified dataset for "Associations between text communication engagement and maternal-neonatal outcomes in the Mobile WACh NEO Trial"
 
-The deidentified dataset for the manuscript "Associations between text communication engagement and maternal-neonatal outcomes in the Mobile WACh NEO Trial" (Peng et al., 2025, submitted to PLOS Digital Health) is included in this Github repo. 
+The deidentified dataset for the manuscript "Associations between text communication engagement and maternal-neonatal outcomes in the Mobile WACh NEO Trial" (Peng et al., 2025, submitted to *PLOS Digital Health*) is included in this Github repo. 
 
 Here is a basic description of the dataset: 
 
